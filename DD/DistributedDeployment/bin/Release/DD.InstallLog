@@ -1,0 +1,84 @@
+﻿Assembly D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   i = 
+   listen = 5555
+   logfile = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.InstallLog
+   assemblypath = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe
+   logtoconsole = 
+   token = YourS3cur!tyTok3n
+Service DeployAgent 172.16.34.197:5555 installeren...
+Service DeployAgent 172.16.34.197:5555 is geïnstalleerd.
+EventLog-bron DeployAgent 172.16.34.197:5555 in logboek Application maken...
+Assembly D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe wordt toegekend.
+Beïnvloede parameters:
+   i = 
+   listen = 5555
+   logfile = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.InstallLog
+   assemblypath = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe
+   logtoconsole = 
+   token = YourS3cur!tyTok3n
+Assembly D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe verwijderen.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.InstallLog
+   assemblypath = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe
+EventLog-bron DeployAgent 172.16.34.197:5555 wordt verwijderd.
+De service DeployAgent 172.16.34.197:5555 wordt verwijderd van het systeem...
+De service DeployAgent 172.16.34.197:5555 is verwijderd van het systeem.
+Poging om de service DeployAgent 172.16.34.197:5555 te stoppen.
+Assembly D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   i = 
+   listen = 5555
+   logfile = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.InstallLog
+   assemblypath = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe
+   logtoconsole = 
+   token = YourS3cur!tyTok3n
+Service DeployAgent 172.16.34.197:5555 installeren...
+Service DeployAgent 172.16.34.197:5555 is geïnstalleerd.
+EventLog-bron DeployAgent 172.16.34.197:5555 in logboek Application maken...
+Assembly D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe wordt toegekend.
+Beïnvloede parameters:
+   i = 
+   listen = 5555
+   logfile = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.InstallLog
+   assemblypath = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe
+   logtoconsole = 
+   token = YourS3cur!tyTok3n
+Assembly D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe verwijderen.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.InstallLog
+   assemblypath = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe
+EventLog-bron DeployAgent 172.16.34.197:5555 wordt verwijderd.
+De service DeployAgent 172.16.34.197:5555 wordt verwijderd van het systeem...
+De service DeployAgent 172.16.34.197:5555 is verwijderd van het systeem.
+Poging om de service DeployAgent 172.16.34.197:5555 te stoppen.
+Assembly D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe wordt geïnstalleerd.
+Beïnvloede parameters:
+   i = 
+   listen = 5555
+   logfile = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.InstallLog
+   assemblypath = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe
+   logtoconsole = 
+   token = YourS3cur!tyTok3n
+Service DeployAgent 172.16.34.197:5555 installeren...
+Service DeployAgent 172.16.34.197:5555 is geïnstalleerd.
+EventLog-bron DeployAgent 172.16.34.197:5555 in logboek Application maken...
+Assembly D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe wordt toegekend.
+Beïnvloede parameters:
+   i = 
+   listen = 5555
+   logfile = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.InstallLog
+   assemblypath = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe
+   logtoconsole = 
+   token = YourS3cur!tyTok3n
+Assembly D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe verwijderen.
+Beïnvloede parameters:
+   logtoconsole = 
+   logfile = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.InstallLog
+   assemblypath = D:\VS2012\DD\DistributedDeployment\bin\Release\DD.exe
+EventLog-bron DeployAgent 172.16.34.197:5555 wordt verwijderd.
+De service DeployAgent 172.16.34.197:5555 wordt verwijderd van het systeem...
+De service DeployAgent 172.16.34.197:5555 is verwijderd van het systeem.
+Poging om de service DeployAgent 172.16.34.197:5555 te stoppen.

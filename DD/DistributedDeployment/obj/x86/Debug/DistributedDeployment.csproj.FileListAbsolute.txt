@@ -1,0 +1,10 @@
+D:\VS2012\DD\DistributedDeployment\bin\Debug\App.config
+D:\VS2012\DD\DistributedDeployment\bin\Debug\deploy-concentrator.bat
+D:\VS2012\DD\DistributedDeployment\bin\Debug\DD.exe.config
+D:\VS2012\DD\DistributedDeployment\bin\Debug\DD.exe
+D:\VS2012\DD\DistributedDeployment\bin\Debug\DD.pdb
+D:\VS2012\DD\DistributedDeployment\obj\x86\Debug\DistributedDeployment.csprojResolveAssemblyReference.cache
+D:\VS2012\DD\DistributedDeployment\obj\x86\Debug\DistributedDeployment.ServiceInstaller.resources
+D:\VS2012\DD\DistributedDeployment\obj\x86\Debug\DistributedDeployment.csproj.GenerateResource.Cache
+D:\VS2012\DD\DistributedDeployment\obj\x86\Debug\DD.exe
+D:\VS2012\DD\DistributedDeployment\obj\x86\Debug\DD.pdb

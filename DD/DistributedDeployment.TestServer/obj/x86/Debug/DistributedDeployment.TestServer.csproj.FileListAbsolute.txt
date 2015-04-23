@@ -1,0 +1,10 @@
+D:\VS2012\DD\DistributedDeployment.TestServer\bin\Debug\App.config
+D:\VS2012\DD\DistributedDeployment.TestServer\bin\Debug\deploy-concentrator.bat
+D:\VS2012\DD\DistributedDeployment.TestServer\bin\Debug\DistributedDeployment.TestServer.exe.config
+D:\VS2012\DD\DistributedDeployment.TestServer\bin\Debug\DistributedDeployment.TestServer.exe
+D:\VS2012\DD\DistributedDeployment.TestServer\bin\Debug\DistributedDeployment.TestServer.pdb
+D:\VS2012\DD\DistributedDeployment.TestServer\bin\Debug\DD.exe
+D:\VS2012\DD\DistributedDeployment.TestServer\bin\Debug\DD.pdb
+D:\VS2012\DD\DistributedDeployment.TestServer\obj\x86\Debug\DistributedDeployment.TestServer.csprojResolveAssemblyReference.cache
+D:\VS2012\DD\DistributedDeployment.TestServer\obj\x86\Debug\DistributedDeployment.TestServer.exe
+D:\VS2012\DD\DistributedDeployment.TestServer\obj\x86\Debug\DistributedDeployment.TestServer.pdb
